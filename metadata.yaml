@@ -1,0 +1,38 @@
+_repo: Heroes-Every-Child-Should-Know_4265
+contributor:
+  creator:
+    editor:
+      agent_name: Stephens, Kate
+      alias: Ransom, Olive
+      birthdate: 1853
+      deathdate: 1938
+      gutenberg_agent_id: '38032'
+      url: http://www.gutenberg.org/2009/agents/38032
+creator:
+  author:
+    agent_name: Mabie, Hamilton Wright
+    alias: Mabie, Hamilton W. (Hamilton Wright)
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1421'
+    url: http://www.gutenberg.org/2009/agents/1421
+    wikipedia: http://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
+description: ''
+gutenberg_bookshelf: Children's Anthologies
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4265'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Heroes'
+- !lcc 'PZ'
+tableOfContents: Perseus -- Hercules -- Daniel -- David -- St. George -- King Arthur
+  -- Sir Galahad -- Siegfried -- Roland -- King Alfred -- The Cid -- Robin Hood --
+  Richard the Lion-Hearted -- Saint Louis -- William Tell -- Robert Bruce -- George
+  Washington -- Robert E. Lee -- Abraham Lincoln -- Father Damien.
+title: Heroes Every Child Should Know
+url: http://www.gutenberg.org/ebooks/4265
