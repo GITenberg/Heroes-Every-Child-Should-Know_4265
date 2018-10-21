@@ -1,5 +1,5 @@
 _repo: Heroes-Every-Child-Should-Know_4265
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -36,6 +36,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Heroes'
 - !lcc 'PZ'
+- GITenberg
 tableOfContents: Perseus -- Hercules -- Daniel -- David -- St. George -- King Arthur
   -- Sir Galahad -- Siegfried -- Roland -- King Alfred -- The Cid -- Robin Hood --
   Richard the Lion-Hearted -- Saint Louis -- William Tell -- Robert Bruce -- George
